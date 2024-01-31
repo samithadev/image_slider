@@ -18,6 +18,7 @@ body{
     cursor: grab;
     overscroll-behavior-inline: contain;
     user-select: none;
+    scroll-behavior: smooth;
 }
 
 /* for chrome etc */
